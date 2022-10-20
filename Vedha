@@ -1,0 +1,7 @@
+public class Vedha
+{
+public static void main(String[] args)
+{
+System.out.println("Hello vedh:");
+}
+}
